@@ -1,0 +1,1 @@
+"""Visualització Pygame de Lonogram."""
